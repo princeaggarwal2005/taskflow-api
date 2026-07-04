@@ -1,7 +1,8 @@
 # TaskFlow — Collaborative Project Management Platform (Backend)
 
 **Author:** Prince Aggarwal  
-**Contact:** agr.prince2005@gmail.com
+**Contact:** agr.prince2005@gmail.com  
+**Repository:** [github.com/princeaggarwal2005/taskflow-api](https://github.com/princeaggarwal2005/taskflow-api)
 
 REST API backend for TaskFlow — a team project management platform. Users can register, create projects, invite members with roles, and manage tasks with subtasks and file attachments.
 
